@@ -58,17 +58,18 @@
     </item>
 
     <item>
-      <title>Mars Science Laboratory</title>
+      <title>NAT GEO</title>
 
-      <link>http://mars.jpl.nasa.gov/multimedia/videos/movies/msl20111213/msl20111213-640.m4v</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050238.stream live=1
+</link>
 
-      <publisher>NASA</publisher>
+      <publisher>NAt Geo</publisher>
 
       <country>United States</country>
 
       <theme>Science</theme>
 
-      <type>Web Resource</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
@@ -78,17 +79,19 @@
     <!-- CNN -->
 
     <item>
-      <title>Top Stories</title>
+      <title>nat geo 2</title>
 
-      <link>http://rss.cnn.com/rss/edition.rss</link>
+      <link>
+rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050238.stream live=1
+#EXTINF:0,57</link>
 
-      <publisher>CNN</publisher>
+      <publisher>2</publisher>
 
       <country>United States</country>
 
       <theme>News</theme>
 
-      <type>RSS feed</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
