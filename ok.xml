@@ -118,7 +118,7 @@
     </item>
 
     <item>
-      <title>Arte</title>
+      <title>Arte HD</title>
 
       <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050218.stream live=1
 #EXTINF:0,17</link>
@@ -181,19 +181,18 @@
     <!-- PS3Hax -->
 
     <item>
-      <title>Latest news</title>
+      <title>Das Erste HD</title>
 
-      <link>http://www.ps3hax.net/rss</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z030402.stream live=1
+#EXTINF:0,24</link>
 
-      <publisher>PS3Hax</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
       <theme>News</theme>
 
-      <theme>Playstation 3</theme>
-
-      <type>RSS feed</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
@@ -203,19 +202,18 @@
     <!-- PS3News -->
 
     <item>
-      <title>Latest news</title>
+      <title>MGM HD</title>
 
-      <link>http://feeds2.feedburner.com/ps3news/KXsI</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050408.stream live=1
+#EXTINF:0,25</link>
 
-      <publisher>PS3News</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
       <theme>News</theme>
 
-      <theme>Playstation 3</theme>
-
-      <type>RSS feed</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
@@ -225,19 +223,18 @@
     <!-- Showtime -->
 
     <item>
-      <title>Recent Activity</title>
+      <title>TNT Serie HD</title>
 
-      <link>http://www.devtacular.com/utilities/atomtorss/?url=https%3a%2f%2fwww.lonelycoder.com%2fredmine%2fprojects%2fshowtime%2factivity.atom%3fshow_changesets%3d1%26show_issues%3d1%26show_messages%3d1%26show_news%3d1%26show_wiki_edits%3d1</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050407.stream live=1
+#EXTINF:0,27</link>
 
-      <publisher>Showtime</publisher>
+      <publisher>Nasa</publisher>
 
-      <country>Sweden</country>
+      <country>United States</country>
 
       <theme>News</theme>
 
-      <theme>Playstation 3</theme>
-
-      <type>RSS feed</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
@@ -247,17 +244,18 @@
     <!-- Picasa -->
 
     <item>
-      <title>Latest pictures</title>
+      <title>NAT Geo Wild HD</title>
 
-      <link>http://picasaweb.google.com/data/feed/base/all?alt=rss</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050287.stream live=1
+#EXTINF:0,39</link>
 
-      <publisher>Picasa</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
       <theme>Social</theme>
 
-      <type>Imagecast</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
@@ -267,17 +265,94 @@
     <!-- Flicker -->
 
     <item>
-      <title>Latest pictures</title>
+      <title>RTL HD</title>
 
-      <link>http://api.flickr.com/services/feeds/photos_public.gne?format=rss_200</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z030101.stream live=1
+#EXTINF:0,40</link>
 
-      <publisher>Flicker</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
       <theme>Social</theme>
 
-      <type>Imagecast</type>
+      <type>Live TV</type>
+
+      <parentalcontrol>1</parentalcontrol>
+
+      <favorite>No</favorite>
+    </item>
+    
+     <item>
+      <title>VOX HD</title>
+
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050220.stream live=1
+#EXTINF:0,41</link>
+
+      <publisher>Nasa</publisher>
+
+      <country>United States</country>
+
+      <theme>Social</theme>
+
+      <type>Live TV</type>
+
+      <parentalcontrol>1</parentalcontrol>
+
+      <favorite>No</favorite>
+    </item>
+    
+    <item>
+      <title>ZDF HD</title>
+
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z030401.stream live=1
+#EXTINF:0,48</link>
+
+      <publisher>Nasa</publisher>
+
+      <country>United States</country>
+
+      <theme>Social</theme>
+
+      <type>Live TV</type>
+
+      <parentalcontrol>1</parentalcontrol>
+
+      <favorite>No</favorite>
+    </item>
+    
+    <item>
+      <title>S*y Atlantic HD</title>
+
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050285.stream live=1
+#EXTINF:0,52</link>
+
+      <publisher>Nasa</publisher>
+
+      <country>United States</country>
+
+      <theme>Social</theme>
+
+      <type>Live TV</type>
+
+      <parentalcontrol>1</parentalcontrol>
+
+      <favorite>No</favorite>
+    </item>
+    
+    <item>
+      <title>MTV Dance</title>
+
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z010002.stream live=1
+#EXTINF:0,56</link>
+
+      <publisher>Nasa</publisher>
+
+      <country>United States</country>
+
+      <theme>Social</theme>
+
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
