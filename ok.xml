@@ -4,15 +4,14 @@
     <item>
       <title>Sat 1</title>
 
-      <link>
-      rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z010101.stream live=1
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z010101.stream live=1
 #EXTINF:0,3</link>
 
       <publisher>NASA</publisher>
 
       <country>United States</country>
 
-      <theme>Live TV</theme>
+      <theme>Science</theme>
 
       <type>Live TV</type>
 
