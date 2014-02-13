@@ -2,11 +2,11 @@
 <rss version="2.0">
   <sources>
     <item>
-      <title>Futubox</title>
+      <title>Sat 1</title>
 
       <link>
-      rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2
-      playpath=z050370.stream live=1</link>
+      rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z010101.stream live=1
+#EXTINF:0,3</link>
 
       <publisher>NASA</publisher>
 
@@ -14,7 +14,7 @@
 
       <theme>Live TV</theme>
 
-      <type/>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
