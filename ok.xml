@@ -2,7 +2,7 @@
 <rss version="2.0">
   <sources>
     <item>
-      <title>Sat 1</title>
+      <title>Sat 1 HD</title>
 
       <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z010101.stream live=1
 #EXTINF:0,3</link>
@@ -21,9 +21,10 @@
     </item>
 
     <item>
-      <title>JPL Photojournal</title>
+      <title>Euro Sport HD</title>
 
-      <link>http://s01.futubox.to/ilive/z010101.stream/playlist.m3u8?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z010601.stream live=1
+#EXTINF:0,5</link>
 
       <publisher>NASA</publisher>
 
@@ -39,15 +40,16 @@
     </item>
 
     <item>
-      <title>TNT</title>
+      <title>S*y Cinema HD</title>
 
-      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2%20playpath=z050407.stream%20live=1</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050393.stream live=1
+#EXTINF:0,8</link>
 
-      <publisher>Futu</publisher>
+      <publisher>Nasa</publisher>
 
-      <country/>
+      <country>United States</country>
 
-      <theme/>
+      <theme>Science</theme>
 
       <type>Live TV</type>
 
@@ -57,12 +59,12 @@
     </item>
 
     <item>
-      <title>NAT GEO</title>
+      <title>S*y Hits HD</title>
 
-      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050238.stream live=1
-</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050274.stream live=1
+#EXTINF:0,14</link>
 
-      <publisher>NAt Geo</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
@@ -78,13 +80,12 @@
     <!-- CNN -->
 
     <item>
-      <title>nat geo 2</title>
+      <title>SIXX HD</title>
 
-      <link>
-rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050238.stream live=1
-#EXTINF:0,57</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z010104.stream live=1
+#EXTINF:0,15</link>
 
-      <publisher>2</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
@@ -98,37 +99,37 @@ rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZW
     </item>
 
     <item>
-      <title>CNN News Update</title>
+      <title>Kabel Eins HD</title>
 
-      <link>http://rss.cnn.com/services/podcasting/newscast/rss.xml</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z010103.stream live=1
+#EXTINF:0,16</link>
 
-      <publisher>CNN</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
       <theme>News</theme>
 
-      <type>Podcast</type>
+      <type>Live TV</type>
 
-      <parentalcontrol>3</parentalcontrol>
+      <parentalcontrol>1</parentalcontrol>
 
       <favorite>Yes</favorite>
     </item>
 
     <item>
-      <title>Anderson Cooper 360° Daily</title>
+      <title>Arte</title>
 
-      <link>http://rss.cnn.com/services/podcasting/ac360/rss.xml</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050218.stream live=1
+#EXTINF:0,17</link>
 
-      <thumbnail>http://images.tvrage.com/shows/8/7024.jpg</thumbnail>
-
-      <publisher>CNN</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
       <theme>News</theme>
 
-      <type>Videocast</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
@@ -138,19 +139,18 @@ rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZW
     <!-- PSX-Scene -->
 
     <item>
-      <title>Latest news</title>
+      <title>RTL 2 HD</title>
 
-      <link>http://feeds.feedburner.com/PSXSceneLatestNews</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z030104.stream live=1
+#EXTINF:0,20</link>
 
-      <publisher>PSX-Scene</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
       <theme>News</theme>
 
-      <theme>Playstation 3</theme>
-
-      <type>RSS feed</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
@@ -160,19 +160,18 @@ rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZW
     <!-- PS3Crunch -->
 
     <item>
-      <title>Latest news</title>
+      <title>N24 HD</title>
 
-      <link>http://www.ps3crunch.net/forum/external.php?type=RSS2&amp;forumids=2</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050008.stream live=1
+#EXTINF:0,23</link>
 
-      <publisher>PS3Crunch</publisher>
+      <publisher>Nasa</publisher>
 
       <country>United States</country>
 
       <theme>News</theme>
 
-      <theme>Playstation 3</theme>
-
-      <type>RSS feed</type>
+      <type>Live TV</type>
 
       <parentalcontrol>1</parentalcontrol>
 
