@@ -815,43 +815,6 @@
       <favorite>No</favorite>
     </item>
     
-    <item>
-      <title>FOX HD</title>
-
-      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050579.stream live=1
-#EXTINF:0,155</link>
-
-      <publisher>Nasa</publisher>
-
-      <country>United States</country>
-
-      <theme>Social</theme>
-
-      <type>Live TV</type>
-
-      <parentalcontrol>1</parentalcontrol>
-
-      <favorite>No</favorite>
-    </item>
-    
-    <item>
-      <title>FOX HD</title>
-
-      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050579.stream live=1
-#EXTINF:0,155</link>
-
-      <publisher>Nasa</publisher>
-
-      <country>United States</country>
-
-      <theme>Social</theme>
-
-      <type>Live TV</type>
-
-      <parentalcontrol>1</parentalcontrol>
-
-      <favorite>No</favorite>
-    </item>
   </sources>
 
   <countries>
