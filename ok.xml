@@ -761,8 +761,7 @@
     <item>
       <title>FOX HD</title>
 
-      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjljNjViNjhkY2VmYmE3NGMxMjM4YTI1ZWQ3NGEyZWU2 playpath=z050579.stream live=1
-#EXTINF:0,155</link>
+      <link>rtmp://s01.futubox.to/live?lp=Qm9zczE6OnNhbHQ6OjQ1MGI4ZTJlYmMzY2RkMzM1MzA1YjMxMjIzZjc1MGI1%20playpath=z050579.stream%20live=1</link>
 
       <publisher>Nasa</publisher>
 
